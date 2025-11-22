@@ -64,3 +64,26 @@ O programa imprime automaticamente:
 2. Clone o repositório
 3. Execute:
 
+
+---
+
+## 📚 Explicação das Funções
+
+### 🔹 `gerar_contribuicoes()`
+Gera automaticamente mais de 20 contribuintes com valores randômicos.
+
+### 🔹 `merge_sort(lista)`  
+Ordena a lista por valor usando **recursão plena**.
+
+### 🔹 `resolver_melancia(contribs, meta)`  
+Implementa a mochila **0/1 recursiva com memoização**.
+
+Retorna:
+- confiabilidade total  
+- valor total alcançado  
+- índices dos contribuintes escolhidos  
+
+### 🔹 `gerar_relatorio(...)`  
+Mostra o resultado final de forma clara e organizada.
+
+---
